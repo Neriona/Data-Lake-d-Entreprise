@@ -1,0 +1,4 @@
+id_vente,date_vente,montant,produit,client_id
+1,2026-04-20,150.00,Laptop,C001
+2,2026-04-20,89.99,Souris,C002
+3,2026-04-20,349.00,Écran,C001

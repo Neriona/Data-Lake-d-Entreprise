@@ -1,0 +1,5 @@
+id_client,nom,prenom,email,telephone,date_naissance,date_inscription,segment,region_client,actif,code_postal
+C001,DUPONT,Jean,jean.dupont@mail.com,0612345678,1990-05-15,2024-01-10,PREMIUM,IDF,true,75001
+C002,MARTIN,Marie,marie.martin@mail.com,0698765432,1985-03-22,2024-02-15,STANDARD,RHONE,true,69001
+C003,BERNARD,Pierre,pierre.bernard@mail.com,0634567890,1992-11-08,2024-03-20,STANDARD,PACA,true,13001
+C004,THOMAS,Sophie,sophie.thomas@mail.com,0656789012,1988-07-30,2024-04-01,PREMIUM,OCCITANIE,true,31000
