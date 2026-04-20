@@ -1,0 +1,8 @@
+{
+  "timestamp": "2026-04-20T20:12:44.101292",
+  "type": "DIAGNOSIS_TEST",
+  "entity": "test_entity",
+  "zone": "test_zone",
+  "severity": "INFO",
+  "message": "Testing alert system"
+}

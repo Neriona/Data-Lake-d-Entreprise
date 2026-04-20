@@ -1,0 +1,8 @@
+{
+  "timestamp": "2026-04-20T19:46:25.599115",
+  "type": "TEST_ALERT_MOUNT_FIX",
+  "entity": "data_lake",
+  "zone": "all_zones",
+  "severity": "INFO",
+  "message": "Testing alert file sync to host"
+}

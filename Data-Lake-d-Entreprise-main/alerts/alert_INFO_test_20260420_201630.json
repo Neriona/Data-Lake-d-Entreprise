@@ -1,0 +1,8 @@
+{
+  "timestamp": "2026-04-20T20:16:30.129798",
+  "type": "FINAL_TEST",
+  "entity": "test",
+  "zone": "zone",
+  "severity": "INFO",
+  "message": "Testing alert sync"
+}

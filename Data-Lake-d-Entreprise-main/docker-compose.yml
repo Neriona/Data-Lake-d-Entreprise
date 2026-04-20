@@ -112,6 +112,9 @@ services:
       - ./scripts:/opt/airflow/scripts
       - ./logs:/opt/airflow/logs
       - ./data:/opt/airflow/data:rw
+      - ./alerts:/opt/airflow/alerts:rw
+      - ./reports:/opt/airflow/reports:rw
+      - ./logs:/opt/airflow/logs:rw
     ports:
       - "8282:8080"
     command: >
@@ -135,6 +138,9 @@ services:
       - ./scripts:/opt/airflow/scripts
       - ./logs:/opt/airflow/logs
       - ./data:/opt/airflow/data:rw
+      - ./alerts:/opt/airflow/alerts:rw
+      - ./reports:/opt/airflow/reports:rw
+      - ./logs:/opt/airflow/logs:rw
     command: airflow scheduler
 
 volumes:
@@ -142,4 +148,5 @@ volumes:
   datanode_data:
   hive_db_data:
   airflow_db_data:
+
 
