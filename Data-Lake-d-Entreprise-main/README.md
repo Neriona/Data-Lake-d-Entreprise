@@ -142,9 +142,9 @@ docker exec namenode hdfs dfs -du -h /data
 
 ## 👥 Team
 
-- **Personne A**: Ingestion & HDFS (Personne A GitHub Link)
-- **Personne B**: ETL & Spark (WhatsApp files)
-- **Personne C**: Orchestration & QA (You)
+- **Personne A**: Ingestion & HDFS 
+- **Personne B**: ETL & Spark 
+- **Personne C**: Orchestration & QA 
 
 ## 📚 Documentation
 
