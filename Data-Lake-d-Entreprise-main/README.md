@@ -25,7 +25,7 @@ Analytics / BI
 
 ### Startup
 
-\\\ash
+
 # 1. Start all services
 docker-compose up -d
 
