@@ -9,8 +9,8 @@ default_args = {
     "owner"            : "personne_a",
     "retries"          : 3,
     "retry_delay"      : timedelta(minutes=5),
-    "email_on_failure" : False,
-    "email"            : [],
+    "email_on_failure" : True,
+    "email"            : ["elartkira@gmail.com"],
 }
 
 # ============================================================================
